@@ -1,5 +1,5 @@
-# Spaceship-Titanic-Prediction-using-Logistic-Regression
-**Predict which passengers are transported to an alternate dimension**
+# Spaceship Titanic Prediction using Logistic Regression
+#### **Predict which passengers are transported to an alternate dimension**
 
 **Dataset description**
 The dataset was from the Spaceship Titanic Competition from Kaggle.
